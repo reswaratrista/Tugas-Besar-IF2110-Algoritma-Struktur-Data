@@ -1,0 +1,8 @@
+7
+RNG
+Diner DASH
+HANGMAN
+TOWER OF HANOI
+SNAKE ON METEOR
+Battleship
+The Guessing Genie
